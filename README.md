@@ -115,7 +115,7 @@ If this repo saves you time, consider:
 - starring the repo
 - sharing it with other backend engineers
 - supporting my open-source work via the [support page](https://happysnaker.github.io/support/)
-- if you want lightweight async feedback on a public GitHub profile, repo README, or resume site, I also offer a small paid review option there
+- if you want lightweight async feedback on a public GitHub profile, repo README, or portfolio page, details are also available there
 
 ## License
 
