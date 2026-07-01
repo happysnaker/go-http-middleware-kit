@@ -117,6 +117,12 @@ If this repo saves you time, consider:
 - supporting my open-source work via the [support page](https://happysnaker.github.io/support/)
 - if you want lightweight async feedback on a public GitHub profile, repo README, or portfolio page, details are also available there
 
+If this middleware kit saved you copy-paste time in a real service, small direct support is especially appreciated:
+
+- **¥9.9** — if one middleware or example saved you a quick detour
+- **¥19.9** — if it helped you wire request IDs / logging / recovery faster
+- **¥99** — if you want compact async feedback on your own backend repo or README
+
 ## License
 
 MIT
