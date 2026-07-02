@@ -124,6 +124,8 @@ If this middleware kit saved you copy-paste time in a real service, small direct
 - **¥19.9** — if it helped you wire request IDs / logging / recovery faster
 - **¥99** — if you want compact async feedback on your own backend repo or README
 
+**Fastest path if this repo helped:** open the [support page](https://happysnaker.github.io/support/), scan WeChat / Alipay, and leave a short note like `go-http-middleware-kit` or `request-id middleware`. Tying the tip to one concrete repo tends to convert much better than a generic donation.
+
 ## License
 
 MIT
