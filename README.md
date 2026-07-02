@@ -3,7 +3,7 @@
 [![Go Version](https://img.shields.io/badge/go-1.22+-00ADD8?logo=go)](https://go.dev/)
 [![License](https://img.shields.io/github/license/happysnaker/go-http-middleware-kit)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/happysnaker/go-http-middleware-kit?style=social)](https://github.com/happysnaker/go-http-middleware-kit/stargazers)
-[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-go-http-middleware-kit)
 [![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
 
 Reusable `net/http` middleware for backend services that want **request IDs**, **real IP extraction**, **structured logs**, **panic recovery**, and **timeouts** without pulling in a full framework.
@@ -117,7 +117,7 @@ If this repo saves you time, consider:
 
 - starring the repo
 - sharing it with other backend engineers
-- supporting my open-source work via the [support page](https://happysnaker.github.io/support/)
+- supporting my open-source work via the [support page](https://happysnaker.github.io/support/#from-go-http-middleware-kit)
 - if you want lightweight async feedback on a public GitHub profile, repo README, or portfolio page, details are also available there
 
 If this middleware kit saved you copy-paste time in a real service, small direct support is especially appreciated:
@@ -128,7 +128,7 @@ If this middleware kit saved you copy-paste time in a real service, small direct
 - **fastest path** — tip directly on the support page if this repo saved you time; use **¥29.9** / **¥99** only if you also want feedback back
 - **¥99** — if you want compact async feedback on your own backend repo or README
 
-**Fastest path if this repo helped:** open the [support page](https://happysnaker.github.io/support/), scan WeChat / Alipay, and leave a short note like `go-http-middleware-kit` or `request-id middleware`. Tying the tip to one concrete repo tends to convert much better than a generic donation.
+**Fastest path if this repo helped:** open the [support page](https://happysnaker.github.io/support/#from-go-http-middleware-kit), scan WeChat / Alipay, and leave a short note like `go-http-middleware-kit` or `request-id middleware`. Tying the tip to one concrete repo tends to convert much better than a generic donation.
 
 ## License
 
