@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/github/license/happysnaker/go-http-middleware-kit)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/happysnaker/go-http-middleware-kit?style=social)](https://github.com/happysnaker/go-http-middleware-kit/stargazers)
 [![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+[![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
 
 Reusable `net/http` middleware for backend services that want **request IDs**, **real IP extraction**, **structured logs**, **panic recovery**, and **timeouts** without pulling in a full framework.
 
