@@ -15,6 +15,8 @@ This repo is intentionally small, readable, and production-minded:
 - composable around ordinary `http.Handler`
 - useful for starter repos, internal APIs, and interview-friendly service demos
 
+- Project page: [happysnaker.github.io/go-http-middleware-kit](https://happysnaker.github.io/go-http-middleware-kit/)
+
 ## What is included
 
 - `RequestID` middleware with context + response-header propagation
