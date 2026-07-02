@@ -122,6 +122,8 @@ If this middleware kit saved you copy-paste time in a real service, small direct
 
 - **¥9.9** — if one middleware or example saved you a quick detour
 - **¥19.9** — if it helped you wire request IDs / logging / recovery faster
+- **best payment note** — `go-http-middleware-kit` or `request-id middleware`
+- **fastest path** — tip directly on the support page if this repo saved you time; use **¥29.9** / **¥99** only if you also want feedback back
 - **¥99** — if you want compact async feedback on your own backend repo or README
 
 **Fastest path if this repo helped:** open the [support page](https://happysnaker.github.io/support/), scan WeChat / Alipay, and leave a short note like `go-http-middleware-kit` or `request-id middleware`. Tying the tip to one concrete repo tends to convert much better than a generic donation.
