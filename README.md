@@ -119,6 +119,7 @@ If this repo saves you time, consider:
 - starring the repo
 - sharing it with other backend engineers
 - supporting my open-source work via the [support page](https://happysnaker.github.io/support/#from-go-http-middleware-kit)
+- shortest support thread: [If go-http-middleware-kit helped, here is the shortest support path](https://github.com/happysnaker/go-http-middleware-kit/discussions/1)
 - if you want lightweight async feedback on a public GitHub profile, repo README, or portfolio page, details are also available there
 
 If this middleware kit saved you copy-paste time in a real service, small direct support is especially appreciated:
