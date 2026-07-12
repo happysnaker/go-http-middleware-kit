@@ -19,6 +19,7 @@ This repo is intentionally small, readable, and production-minded:
 - Project page: [happysnaker.github.io/go-http-middleware-kit](https://happysnaker.github.io/go-http-middleware-kit/)
 - Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
 - 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
+- Sponsor prospect pipeline: [docs/sponsor-prospect-pipeline.md](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md) — route Go middleware / backend library customers to the right proof, CTA, support note, and guardrail before paying or asking for review
 
 ## What is included
 
@@ -134,6 +135,7 @@ If this middleware kit saved you copy-paste time in a real service, small direct
 - **best payment note** — `go-http-middleware-kit` or `request-id middleware`
 - **fastest path** — tip directly on the support page if this repo saved you time; use **¥29.9** / **¥99** only if you also want feedback back
 - **¥99** — if you want compact async feedback on your own backend repo or README
+- sponsor prospect pipeline: route Go middleware / backend library customers through the prospect pipeline first so the ask maps to proof, CTA, support note, and guardrail before payment: https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md
 - public issue privacy guardrail: do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues; use the intake replies first.
 
 **Fastest path if this repo helped:** open the [support page](https://happysnaker.github.io/support/#from-go-http-middleware-kit), scan WeChat / Alipay, and leave a short note like `go-http-middleware-kit` or `request-id middleware`. Tying the tip to one concrete repo tends to convert much better than a generic donation.
