@@ -17,6 +17,8 @@ This repo is intentionally small, readable, and production-minded:
 - useful for starter repos, internal APIs, and interview-friendly service demos
 
 - Project page: [happysnaker.github.io/go-http-middleware-kit](https://happysnaker.github.io/go-http-middleware-kit/)
+- Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
+- 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
 
 ## What is included
 
@@ -120,6 +122,8 @@ If this repo saves you time, consider:
 - sharing it with other backend engineers
 - supporting my open-source work via the [support page](https://happysnaker.github.io/support/#from-go-http-middleware-kit)
 - current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager)
+- sponsor / paid-support intake replies: [share-kit intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies)
+- deploy-read sample before paying: [happysnaker.github.io/review/deploy-read-sample](https://happysnaker.github.io/review/deploy-read-sample/)
 - shortest support thread: [If go-http-middleware-kit helped, here is the shortest support path](https://github.com/happysnaker/go-http-middleware-kit/discussions/1)
 - if you want lightweight async feedback on a public GitHub profile, repo README, or portfolio page, details are also available there
 
@@ -130,6 +134,7 @@ If this middleware kit saved you copy-paste time in a real service, small direct
 - **best payment note** — `go-http-middleware-kit` or `request-id middleware`
 - **fastest path** — tip directly on the support page if this repo saved you time; use **¥29.9** / **¥99** only if you also want feedback back
 - **¥99** — if you want compact async feedback on your own backend repo or README
+- public issue privacy guardrail: do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues; use the intake replies first.
 
 **Fastest path if this repo helped:** open the [support page](https://happysnaker.github.io/support/#from-go-http-middleware-kit), scan WeChat / Alipay, and leave a short note like `go-http-middleware-kit` or `request-id middleware`. Tying the tip to one concrete repo tends to convert much better than a generic donation.
 
